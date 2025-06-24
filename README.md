@@ -24,7 +24,7 @@ The final output of the script is a 2D scatter plot where each point represents 
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/Muphata/pca-mnist-analysis.git
-    cd pca_mnist_project
+    cd pca-mnist-analysis
     ```
 
 2.  **Install the required libraries:**
@@ -34,7 +34,7 @@ The final output of the script is a 2D scatter plot where each point represents 
 
 3.  **Run the script:**
     ```bash
-    python pca_mnist.py
+    The_Geometry_of_Data_.ipynb
     ```
 
 ## Code

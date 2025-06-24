@@ -23,7 +23,7 @@ The final output of the script is a 2D scatter plot where each point represents 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/pca_mnist_project.git
+    git clone https://github.com/Muphata/pca-mnist-analysis.git
     cd pca_mnist_project
     ```
 

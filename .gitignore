@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+
+# Jupyter Notebook cache
+.ipynb_checkpoints/
+
+# Virtual environment folder
+venv/
+*.venv/
+
+# IDE specific files
+.idea/
+.vscode/
